@@ -4,4 +4,5 @@ https://fromscratch.podia.com/view/courses/javascript-de-a-a-z/1217367-suite-et-
 
 ## Technos
 
-Javascript
+- Javascript
+- Canvas
